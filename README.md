@@ -4,12 +4,6 @@
   <b>Web Developer |Cloud Enthusiast ☁️| Lifelong Learner 🌱</b><br/>
   Passionate about building beautiful and responsive web experiences using modern technologies.
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriya-yourusername&style=flat-square" alt="profile views"/>
-  <a href="www.linkedin.com/in/sriya-muppidi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-</p>
-
 💬 I love turning ideas into real-world web applications. From concept to deployment, I focus on clean code, accessibility, and performance.
 
 🔧 Languages and Tools
