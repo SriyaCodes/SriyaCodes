@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Sriya 👋</h1>
 
 <p align="center">
-  <b>Web Developer |Cloud Enthusiast ☁️| Lifelong Learner 🌱</b><br/>
+  <b>Web Developer | Cloud Enthusiast | DSA </b><br/>
   Passionate about building beautiful and responsive web experiences using modern technologies.
 </p>
 <p align="center">
