@@ -34,7 +34,7 @@
 
 - 🔭 Currently working on: DSA, Personal projects & improving UI/UX skills  
 - 🌱 Learning more about: Animations, accessibility, and design systems  
-- 💡 Favorite stack: React + Node   
+- 💡 Favourite stack: React + Node   
 - 📄 [View My Portfolio](https://sriya-portfolio-orpin.vercel.app/)  
 - 📬 Reach out: babysriya1193@gmail.com
 
