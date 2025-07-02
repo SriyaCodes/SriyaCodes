@@ -36,6 +36,11 @@
 - 📄 [View My Portfolio](https://sriya-portfolio-orpin.vercel.app/)  
 - 📬 Reach out: babysriya1193@gmail.com
 
+## 📊 GitHub Activity (Last 30 Days)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SriyaCodes&theme=react-dark&hide_border=true" alt="Sriya's GitHub activity graph"/>
+</p>
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
