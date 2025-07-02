@@ -1,5 +1,7 @@
 <h1 align="center">Hi there! I'm Sriya 👋</h1>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SriyaCodes&label=Profile%20views&color=0e75b6&style=flat" alt="Sriya's profile view counter"/>
+</p>
 <p align="center">
   <b>Web Developer | Cloud Enthusiast | DSA </b><br/>
   Passionate about building beautiful and responsive web experiences using modern technologies.
