@@ -1,4 +1,4 @@
-<h1 align="center">Commit by: Sriya 👋</h1>
+<h1 align="center">Hi There,I'm Sriya 👋</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SriyaCodes&label=Profile%20views&color=0e75b6&style=flat" alt="Sriya's profile view counter"/>
 </p>
